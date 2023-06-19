@@ -1,7 +1,7 @@
 package main
 
 import (
-	"renqabs/gpb/api"
+	"adams549659584/go-proxy-bingai/api"
 	"log"
 	"net/http"
 	"os"
