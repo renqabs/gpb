@@ -1,7 +1,7 @@
 package web
 
 import (
-	"adams549659584/go-proxy-bingai/common"
+	"renqabs/gpb/common"
 	"embed"
 	"io/fs"
 	"net/http"
