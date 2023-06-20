@@ -1,4 +1,4 @@
-module adams549659584/go-proxy-bingai
+module renqabs/gpb
 
 go 1.20
 
